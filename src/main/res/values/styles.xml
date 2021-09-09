@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+  Font family: Roboto Condensed
+  Line height: 40sp
+-->
+    <!-- styles.xml -->
+    <style name="our_mission">
+
+        <item name="android:textSize">
+            22sp
+        </item>
+
+        <item name="android:textColor">
+            #BFD5E9
+        </item>
+
+    </style>
+
+    <!--
+  Font family: Nova Cut
+  Line height: 77sp
+-->
+    <!-- styles.xml -->
+    <style name="distant_at_">
+
+        <item name="android:textSize">
+            60sp
+        </item>
+
+        <item name="android:textColor">
+            #BFD5E9
+        </item>
+
+    </style>
+
+    <!-- About Us Page -->
+    <style name="scrolIImageAboutUs">
+        <item name="android:layout_width">415dp</item>
+        <item name="android:layout_height">746dp</item>
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:contentDescription">@string/about_us</item>
+    </style>
+
+    <!-- Covid Article Page -->
+    <style name="scrolIImageCovid">
+        <item name="android:layout_width">450dp</item>
+        <item name="android:layout_height">746dp</item>
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:contentDescription">@string/about_us</item>
+    </style>
+
+    <!-- Warning Message -->
+    <style name="warning">
+
+        <item name="android:textSize">
+            64sp
+        </item>
+
+    </style>
+
+</resources>

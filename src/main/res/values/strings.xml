@@ -1,3 +1,51 @@
 <resources>
-    <string name="app_name">Self Assessment</string>
+    <string name="app_name">Distant At This Instant</string>
+    <string name="title_home">Home</string>
+    <string name="title_about_us">About Us</string>
+
+    <!-- strings.xml -->
+    <string name="our_mission">
+        Our mission is to help infer people about the pandemic through our uses of education. We hope that by doing so, as a community we can go through this pandemic, together.
+    </string>
+
+    <string name="distant_at_">
+    Distant \nat this \nInstant
+    </string>
+    <string name="about_us">About us</string>
+    <string name="title_activity_end_page">MainActivity</string>
+    <string name="we_have_detected_that_you_may_have_symptoms_of_covid_19">WE HAVE DETECTED THAT YOU MAY HAVE SYMPTOMS OF COVID-19</string>
+    <string name="warning">Warning!!</string>
+    <string name="warningpic">warning</string>
+    <string name="warningpic2">warning</string>
+    <string name="please_indicate_the_city_in_the_gta_that_you_live_in">Please Indicate the City in the GTA that you live in:</string>
+    <string name="title_activity_g_t_a_maps">Map</string>
+
+    <string-array name="cities_array">
+        <item>Ajax</item>
+        <item>Aurora</item>
+        <item>Brampton</item>
+        <item>Brock</item>
+        <item>Burlington</item>
+        <item>Caledon</item>
+        <item>Clarington</item>
+        <item>East Gwillimbury</item>
+        <item>Georgina</item>
+        <item>Halton Hills</item>
+        <item>King</item>
+        <item>Markham</item>
+        <item>Milton</item>
+        <item>Mississauga</item>
+        <item>Newmarket</item>
+        <item>Oakville</item>
+        <item>Oshawa</item>
+        <item>Pickering</item>
+        <item>Richmond Hill</item>
+        <item>Scugog</item>
+        <item>Toronto</item>
+        <item>Uxbridge</item>
+        <item>Vaughn</item>
+        <item>Whitby</item>
+        <item>Whitchurch-Stouffville</item>
+    </string-array>
+
 </resources>

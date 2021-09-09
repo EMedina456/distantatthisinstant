@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_us">About us</string>
+    <string name="we_have_detected_that_you_may_have_symptoms_of_covid_19">WE HAVE DETECTED THAT YOU MAY HAVE SYMPTOMS OF COVID-19</string>
+    <string name="warningpic">warning</string>
+    <string name="warningpic2">warning</string>
+    <string name="please_indicate_the_city_in_the_gta_that_you_live_in">Please Indicate the City in the GTA that you live in:</string>
+</resources>
